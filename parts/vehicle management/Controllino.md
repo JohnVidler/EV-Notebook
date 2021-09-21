@@ -15,3 +15,9 @@
         - Note to John: Upload details on the board you designed here!
 - Uses a fair amount of current during standby
     - Note to John: Take standby measurements, they're not listed on the Controllino site at all :(
+
+## Datasheets + Files
+
+- Controllino MAXI
+    - [Datasheet](/datasheets/controllino/MAXI_DATASHEET-19-04-20161.pdf)
+    - [Pinout](/datasheets/controllino/CONTROLLINO-MAXI-Pinout.pdf)
