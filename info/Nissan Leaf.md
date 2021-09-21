@@ -6,5 +6,5 @@
   - Inverter: 15kg ( 22lbs )
   - Motor: 82kg ( 180lbs )
   - Battery Box
-    - 192 Cells: 151kg
+    - 192 Cells: 48 modules, packaged in 2p2s configuration - 151kg
     - Box, plates, wires, etc. 144kg
