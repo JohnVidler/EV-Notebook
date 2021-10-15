@@ -1,6 +1,11 @@
 # Kilovac Contactors
 
+![A vertical orientation kilovac contactor with threaded bolt connections](/img/kilovac/contactor.jpg)
+
 Can be a bit awkward to mount, as the flange-on-a-can design can make access to mounting bolts a bit tricky - strongly suggest using a long insulated screwdriver and screw bolts rather than hex-head for this.
+
+Depending on your exact model some care may need to be taken to ensure the high-current sides of the contactor do not inadvertently touch one another.
+If in doubt, including some terminal covers on your cables can't do any harm.
 
 No internal economiser on any models readily available by the usual channels either, so using some kind of external econimising circuit is _strongly_ advised, as otherwise most BMS/Controllers will quite happily drive the coils at whatever voltage your pack puts out, so even getting a 48v rated coil one on my 48v system results in a drive voltage of around 60v when the cells are fully charged, and the coils then get very hot.
 
